@@ -1,0 +1,116 @@
+ID,German_MS,German_FS,Gender-Neutral,Gender-Inclusive,English,English_P
+0,Der Dispatcher,Die Dispatcherin,,der*die Dispatcher*in,The dispatcher,The dispatchers
+1,Der Stellvertreter,Die Stellvertreterin,die Stellvertretung,der*die Stellvertreter*in,The deputy,The deputies
+2,Der Siedler,Die Siedlerin,die ansässige Person; die siedelnde Person,der*die Siedler*in,The settler,The settlers
+3,Der Grundschüler,Die Grundschülerin,das Grundschulkind,der*die Grundschüler*in,The primary school pupil,The primary school pupils
+4,Der Rezipient,Die Rezipientin,Rezipierende; das Publikum,der*die Rezipient*in,The recipient,The recipients
+5,Der Reformer,Die Reformerin,die reformierende Person; die Reformperson,der*die Reformer*in,The reformer,The reformers
+9,Der Kollege,Die Kollegin,die Kollegschaft; das Kollegium; das Teammitglied,der*die Kolleg*in,The colleague,The colleagues
+10,Der Kursteilnehmer,Die Kursteilnehmerin,die am Kurs teilnehmende Person,der*die Kursteilnehmer*in,The course participant,The course participants
+11,Der Patient,Die Patientin,die zu behandelnde Person; die kranke Person; die zu versorgende Person,der*die Patient*in,The patient,The patients
+12,Der Bergsteiger,Die Bergsteigerin,die bergbegeisterte Person; die bergsteigende Person,der*die Bergsteiger*in,The mountaineer,The mountaineers
+14,Der Kindertagepfleger,Die Kindertagepflegerin,die Kindertagespflegeperson,der*die Kindertagpfleger*in,The children's day carer,The children's day carers
+16,Der Keramiker,Die Keramikerin,die Keramikfachkraft,der*die Keramiker*in,The ceramist,The ceramists
+17,Der Pazifist,Die Pazifistin,Friedensbewegte,der*die Pazifist*in,The pacifist,The pacifists
+18,Der Unterzeichner,Die Unterzeichnerin,die unterzeichnende Person; die unterzeichnende Partei; die Unterschrift,der*die Unterzeichner*in,The signee,The signees
+19,Der Unterzeichner,Die Unterzeichnerin,die unterzeichnende Person; die unterzeichnende Partei; dieUnterschrift,der*die Unterzeichner*in,The addresser,The addressers
+20,Der Berater,Die Beraterin,die beratende Person,der*die Berater*in,The counsellor,The counsellors
+21,Der Auftragnehmer,Die Auftragnehmerin,die auftragnehmende Person,der*die Auftragnehmer*in,The contractor,The contractors
+22,Der Koordinator,Die Koordinatorin,die Koordination,der*die Koordinator*in,The coordinator,The coordinators
+23,Der Suprematist,Die Suprematistin,,der*die Suprematist*in,The supremacist,The supremacists
+24,Der Beschäftigte,Die Beschäftigte,die Arbeitskraft; die beschäftigte Person; die angestellte Person; die Person im Beschäftigungsverhältnis,der*die Beschäftigte,The employee,The employees
+25,Der Investor,Die Investorin,"die geldgebende Person; die Person, die Geld investiert hat; die investierende Person",der*die Investor*in,The investor,The investors
+26,Der Blogger,Die Bloggerin,"die bloggende Personen; die Personen, die einen Blog schreiben",der*die Blogger*in,The blogger,The bloggers
+27,Der Veteran,Die Veteranin,die altgediente Person; die ehemalige kriegsteilnehmende Person,der*die Veteran*in,The veteran,The veterans
+28,Der Spender,Die Spenderin,die gebende Person; die Spende,der*die Spender*in,The donor,The donors
+29,Der Mitbürger,Die Mitbürgerin,der Mitmensch,der*die Mitbürger*in,The fellow citizen,The fellow citizens
+30,Der Notar,Die Notarin,die notariell arbeitende Person,der*die Notar*in,The notary,The notaries
+31,Der Reisender,Die Reisende,die reisende Person,der*die Reisende,The traveller,The travellers
+32,Der Schülervertreter,Die Schülervertreterin,"die Person, die die Schülerschaft vertritt; die Lernendenvertretung",der*die Schülervertreter*in,The student representative,The student representatives
+33,Der Diabetiker,Die Diabetikerin,der Mensch mit Diabetes; die Diabetes erkrankte Person,der*die Diabetiker*in,The diabetic,The diabetics
+34,Der Sachbearbeiter,Die Sachbearbeiterin,die Verwaltungskraft,der*die Sachbearbeiter*in,The administrator,The administrators
+35,Der Jude,Die Juden,Der Mensch jüdischen Glaubens; der jüdische Mensch; das Mitglied des jüdischen Volkes,der*die Jud*in,The Jew,The Jews
+36,Der Sekretär,Die Sekretärin,"die Verwaltungskraft; die Verwaltungsfachangestellte; die Assistenz, die Schreibkaft; Bürokraft",der*die Sekräter*in,The secretary,The secretaries
+37,Der Bauträger,Die Bauträgerin,die für den Bau verantwortliche Firma,der*die Bauträger*in,The builder,The builders
+38,Der Vollstreckungsschuldner,Die Vollstreckungsschuldnerin,,der*die Vollstreckungsschuldner*in,The enforcement debtor,The enforcement debtors
+39,Der Präsident,Die Präsidentin,das Staatsoberhaupt; der Vorsitz,der*die Präsident*in,The president,The presidents
+40,Der Seelsorger,Die Seelsorgerin,,der*die Seelsorger*in,The pastor,The pastors
+41,Der Steuerberater,Die Steuerberaterin,die Steuerberatung; die Steuerkanzlei; die zu Steuern beratende Person; die der steuerberatenden Berufe angehörige Person,der*die Steuerberater*in,The tax consultant,The tax consultants
+42,Der Einflussnehmer,Die Einflussnehmerin,die einflussnehmende Person,der*die Einflussnehmer*in,The influencer,The influencers
+43,Der Direktor,Die Direktorin,die Leitung; die Schulleitung; die Institutsleitung; die Museumsleitung,der*die Direktor*in,The director,The directors
+44,Der Kläger,Die Klägerin,die klagende Person,der*die Kläger*in,The prosecutor,The prosecutors
+45,Der Xylophonspieler,Die Xylophonspielerin,die xylophon spielende Person,der*die Xylophonspieler*in,The xylophone player,The xylophone players
+46,Der Hauswart,Die Hauswartin,die Hauswartung,der*die Hauswart*in,The custodian,The custodians
+47,Der Darsteller,Die Darstellerin,die Rolle; die Besetzung; die darstellende Person,der*die Darsteller*in,The performer,The performers
+48,Der Ausbilder,Die Ausbilderin,der ausbildende Betrieb; die Lehrkraft,der*die Ausbilder*in,The trainer,The trainers
+50,Der Personalentwickler,Die Personalentwicklerin,die Personalentwicklung,der*die Personalentwickler*in,The personnel development manager,The personnel development managers
+51,Der Maler,Die Malerin,die werkschaffende Person der Malerei; die wandgestaltende Person,der*die Maler*in,The painter,The painters
+52,Der Projektleiter,Die Projektleiterin,die Projektleitung,der*die Projektleiter*in,The project leader,The project leaders
+53,Der Dolmetscher,Die Dolmetscherin,die dolmetschende Fachkraft,der*die Dolmetscher*in,The interpreter,The interpreters
+54,Der Betreuer,Die Betreuerin,die Betreuungsperson,der*die Betreuer*in,The tutor,The tutors
+55,Der Betreuer,Die Betreuerin,die Betreuungsperson,der*die Betreuer*in,The supervisor,The supervisors
+56,Der Fürsprecher,Die Fürsprecherin,die mitwirkende Person; die beteiligte Person; die befürwortende Person; der Support ,der*die Fürsprecher*in,The advocate,The advocates
+57,Der Laie,Die Laiin,der Mensch ohne Fachkenntnisse; die fachunkundige Person; die fachfremde Person,der*die Laie,The layperson,The laypeople
+58,Der Kommentator,Die Kommentatorin,die Kommentare; das Kommentar von der medienschaffenden Person,der*die Kommentator*in,The commentator,The commentators
+59,Der Vermittler,Die Vermittlerin,die Mittelsperson,der*die Vermittler*in,The intermediary,The intermediaries
+61,Der Reformer,Die Reformerin,die reformierende Person ,der*die Reformer*in,The reformer,The reformers
+62,Der Ermittler,Die Ermittlerin,die ermittelnde Person,der*die Ermittler*in,The investigator,The investigators
+63,Der Betreiber,Die Betreiberin,die Betriebsgesellschaft; die betreibende Firma; der Betrieb,der*die Betreiber*in,The operator,The operators
+65,Der Gastgeber,Die Gastgeberin,die einladende Person,der*die Gastgeber*in,The host,The hosts
+66,Der Beteiligte,Die Beteiligte,,der*die Beteiligte,The participant,The participants
+67,Der Verbraucherschützer,Die Verbraucherschützerin,die mit dem Verbraucherschutz beauftragte Person,der*die Verbraucherschützer*in,The consumer advisor,The consumer advisors
+68,Der Rechtsanwalt,Die Rechtsanwältin,"der Rechtsbeistand, das Mitglied der Anwaltschaft; die Rechtsvertretung",der*die Rechtsanwält*in,The lawyer,The lawyers
+69,Der Rechnungsempfänger,Die Rechnungsempfängerin,die rechnungsempfangende Person; die rechnungserhaltende Person,der*die Rechnungsempfänger*in,The invoice recipient,The invoice recipients
+71,Der Übungsleiter,Die Übungsleiterin,die sportliche Anleitung; die anleitende Person,der*die Übungleiter*in,The trainer,The trainers
+72,Der Statist,Die Statistin,die stumme Rolle; die Person ohne Sprechrolle; die Nebenfigur,der*die Statist*in,The background actor,The background actors
+73,Der Spekulant,Die Spekulantin,die spekulierende Person,der*die Spekulant*in,The speculator,The speculators
+74,Der Ökonome,Die Ökonomin,Die ökonomisch ausgebildete Person,der*die Ökonom*in,The economist,The economists
+75,Der Anfänger,Die Anfängerin,die unerfahrene Person; der Mensch ohne Vorkenntnisse; der Mensch ohne Vorerfahrung; der Neuling,der*die Anfänger*in,The beginner,The beginners
+76,Der Versuchsleiter,Die Versuchsleiterin,die Versuchsleitung,der*die Versuchtsleiter*in,The investigator,The investigators
+77,Der Zeitgenosse,Die Zeitgenossin,der Mitmensch,der*die Zeitgenosse,The contemporary,The contemporaries
+78,Der Forstwart,Die Forstwartin,die Forstaufsicht,der*die Forstwart*in,The forest keeper,The forest keepers
+80,Der Jurist,Die Juristin,die Person mit juristischer Ausbildung; die Person mit juristischem Sachverstand,der*die Jurist*in,The jurist,The jurists
+81,Der User,Die Userin,"die nutzende Person; die Personen, die Apps nutzt",der*die User*in,The user,The users
+82,Der Sprecher,Die Sprecherin,die sprechende Person; die sprachbenutzende Person,der*die Sprecher*in,The speaker,The speakers
+83,Der Nebenmann,Die Nebenfrau,die nebenstehende Person,der*die Nebenperson,The neighbor,The neighbors
+85,Der Meinungsführer,Die Meinungsführerin,die meinungsführende Person,der*die Meinungsführer*in,The opinion leader,The opinion leaders
+86,Der Mechaniker,Die Mechanikerin,die Fachkraft für Mechanik,der*die Mechaniker*in,The mechanic,The mechanics
+87,Der Mitläufer,Die Mitläuferin,die Folge leistende Person; die involvierte Person; das passive Engagement; die passive Rolle; die mitlaufende Person,der*die MitlÃ¤ufer*in,The fellow runner,The fellow runners
+88,Der Enthusiast,Die Enthusiastin,die begeisterte Person,der*die Enthusiast*in,The enthusiast,The enthusiasts
+89,Der Sender,Die Senderin,gesendet von ,der*die Sender*in,The sender,The senders
+90,Der Illustrator,Die Illustratorin,die illustrierende Person,der*die Illustrator*in,The illustrator,The illustrators
+91,Der Extremist,Die Extremistin,die radikalisierte Person,der*die Extremist*in,The extremist,The extremists
+92,Der Minister,Die Ministerin,die Ressortleitung,der*die Minister*in,The minister,The ministers
+93,Der Privatpatient,Die Privatpatientin,die privatversicherte Person; die Person mit privater Krankenversicherung,der*die Privatpatient*in,The private patient,The private patients
+94,Der Callcenteroperator,Die Callcenteroperatorin,die callcenteroperierende Person,der*die Callcenteroperator*in,The call center operator,The call center operators
+95,Der Leser,Die Leserin,die lesende Person,der*die Leser*in,The reader,The readers
+96,Der Praktiker,Die Praktikerin,die praktizierende Person; die Person aus der Praxis; der praktisch veranlagte Mensch,der*die Praktiker*in,The practitioner,The practitioners
+97,Der Sklavenhalter,Die Sklavenhalterin,die Sklaverei ausführende Person,der*die Sklavenhälter*in,The slave holder,The slave holders
+98,Der Teamleiter,Die Teamleiterin,die Teamleitung,der*die Teamleiter*in,The team leader,The team leaders
+99,Der Steinmetz,Die Steinmetzin,Stein bearbeitende Person,der*die Steinmetzer*in,The stonecutter,The stonecutters
+100,Der Obmann,Die Obfrau,der Obmensch; die schiedsrichtende Person,der*die Obmensch,The chairperson,The chairpeople
+101,Der Parteichef,Die Parteichefin,der Parteivorsitz,der*die Perteichef*in,The party leader,The party leaders
+102,Der Respondent,Die Respondentin,,der*die Respondent*in,The respondent,The respondents
+103,Der Neueinsteiger,Die Neueinsteigerin,der Nachwuchs; die neue Person im Geschäft; die unerfahrene Person; der Mensch ohne Vorkenntnisse,der*die Neueinsteiger*in,The newcomer,The newcomers
+104,Der Arbeitnehmervertreter,Die Arbeitnehmervertreterin,die Arbeitnehmendenvertretung; der Betriebsrat; der Personalrat; die Beschäftigtenvertretung,der*die Arbeitnehmervertreter*in,The employee representative,The employee representatives
+105,Der Beamte,Die Beamtin,die bedienstete Person; die Beamtenschaft,der*die Beamte,The civil servant,The civil servants
+106,Der Sportfreund,Die Sportfreundin,das Mitglieder des Vereins,der*die Sportfreund*in,The sportsperson,The sportspeople
+107,Der Arbeiter,Die Arbeiterin,die Arbeitskraft,der*die Arbeiter*in,The worker,The workers
+108,Der Segler,Die Seglerin,die segelnde Person; die Person im Segelsport,der*die Segler*in,The sailor,The sailors
+110,Der Klient,Die Klientin,"die ratsuchende Person; die Beratung in Anspruch nehmende Person; die Person, die in die Beratung kommt; der Fall; der Besuch",der*die Klient*in,The client,The clients
+111,Der Freiberufler,Die Freiberuflerin,die freiberuflich arbeitende Person; die freischaffende Person,der*die Freiberufler*in,The freelancer,The freelancers
+113,Der Friseur,Die Friseurin,die frisierende Person; der Frisiersalon,der*die Friseur*in,The hairdresser,The hairdressers
+114,Der Kameramann,Die Kamerafrau,die Kamera; die Kameraperson,der*die Kameraperson,The camera operator,The camera operators
+115,Der Angehörige,Die Angehörige,das Familienmitglied,der*die Angehörige,The relative,The relatives
+116,Der Organspender,Die Organspenderin,die Organ spendende Person,der*die Organspender*in,The organ donor,The organ donors
+117,Der Produzent,Die Produzentin,die die Produktionsleitung innehabende Person,der*die Produzent*in,The producer,The producers
+118,Der Stimmungsanimateur,Die Stimmungsanimateurin,die stimmungsunterhaltende Person,der*die Stimmungsanimateure,The mood animator,The mood animators
+119,Der Dienstherr,Die Dienstfrau,die Dienstaufsichtsperson; die Dienstbehörde,der*die Dienstaufsichtsperson,The employer,The employers
+120,Der Gutachter,Die Gutachterin,die sachverständige Person; die begutachtende Person,der*die Gutachter,The expert,The experts
+121,Der Spezialist,Die Spezialistin,die sachkundige Person; die Fachperson; die sachverständige Person,der*die Spezialisten,The specialist,The specialists
+122,Der Sozialarbeiter,Die Sozialarbeiterin,die sozialarbeitende Person; die Fachkraft der Sozialen Arbeit,der*die Sozialarbeiter,The social worker,The social workers
+123,Der Partner,Die Partnerin,das Gegenüber,der*die Partner,The partner,The partners
+124,Der Kindergärtner,Die Kindergärtnerin,die pädagogische Fachkraft; die Erziehungskraft; die Kita-Fachkraft,der*die Kindergärtner,The kindergarten teacher,The kindergarten teachers
+125,Der Kaufmann,Die Kauffrau,die Kaufperson,der*die Kaufperson,The businessperson,The businesspeople
+127,Der Verlierer,Die Verliererin,der letzte Platz,der*die Verlierer*in,The loser,The losers
+128,Der Pensionär,Die Pensionärin,die pensionierte Person,der*die Pensionär*in,The pensioner,The pensioners

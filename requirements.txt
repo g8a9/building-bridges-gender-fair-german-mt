@@ -1,0 +1,10 @@
+simple-generation
+inflect
+deep-translator
+python-dotenv
+openai
+mwparserfromhell
+nltk
+spacy
+tenacity
+deepl
