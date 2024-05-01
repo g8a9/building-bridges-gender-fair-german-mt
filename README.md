@@ -7,6 +7,8 @@ Code and data associated with the paper **"Building Bridges: A Dataset for Evalu
 
 ## Data Release
 
+Data is released under the **CC BY 4.0** license. 
+
 - `/data` contains the seed nouns for our Gender-Fair Dictionary and the Multi-Sentence Multi-Domain mentions in Wikipedia and Europarl.
 - `/results` contains results for our evaluation of machine-translated passages.
 
